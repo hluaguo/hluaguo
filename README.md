@@ -31,9 +31,7 @@
 
 [![commity](https://img.shields.io/badge/commity-AI%20git%20commit%20message%20generator-cyan?style=for-the-badge&logo=go&logoColor=white)](https://github.com/hluaguo/commity)
 ![Stars](https://img.shields.io/github/stars/hluaguo/commity?style=for-the-badge)
-
-[![CCometixLine](https://img.shields.io/badge/CCometixLine-Claude%20Code%20statusline%20tool-orange?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/hluaguo/CCometixLine)
-![Stars](https://img.shields.io/github/stars/hluaguo/CCometixLine?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/hluaguo/commity?style=for-the-badge)
 
 ---
 
