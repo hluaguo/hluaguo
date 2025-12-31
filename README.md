@@ -21,38 +21,32 @@
 
 ### 🚀 Featured Projects
 
-<p>
-  <a href="https://github.com/hluaguo/learn-faster-kit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hluaguo&repo=learn-faster-kit&theme=default&hide_border=true" />
-  </a>
-  <a href="https://github.com/hluaguo/metabase-mcp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hluaguo&repo=metabase-mcp&theme=default&hide_border=true" />
-  </a>
-</p>
-<p>
-  <a href="https://github.com/hluaguo/commity">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hluaguo&repo=commity&theme=default&hide_border=true" />
-  </a>
-  <a href="https://github.com/hluaguo/CCometixLine">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hluaguo&repo=CCometixLine&theme=default&hide_border=true" />
-  </a>
-</p>
+[![learn-faster-kit](https://img.shields.io/badge/learn--faster--kit-AI%20learning%20coach%20with%20spaced%20repetition-blue?style=for-the-badge&logo=python&logoColor=white)](https://github.com/hluaguo/learn-faster-kit)
+![Stars](https://img.shields.io/github/stars/hluaguo/learn-faster-kit?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/hluaguo/learn-faster-kit?style=for-the-badge)
+
+[![metabase-mcp](https://img.shields.io/badge/metabase--mcp-MCP%20server%20for%20Metabase%20API-green?style=for-the-badge&logo=python&logoColor=white)](https://github.com/hluaguo/metabase-mcp)
+![Stars](https://img.shields.io/github/stars/hluaguo/metabase-mcp?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/hluaguo/metabase-mcp?style=for-the-badge)
+
+[![commity](https://img.shields.io/badge/commity-AI%20git%20commit%20message%20generator-cyan?style=for-the-badge&logo=go&logoColor=white)](https://github.com/hluaguo/commity)
+![Stars](https://img.shields.io/github/stars/hluaguo/commity?style=for-the-badge)
+
+[![CCometixLine](https://img.shields.io/badge/CCometixLine-Claude%20Code%20statusline%20tool-orange?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/hluaguo/CCometixLine)
+![Stars](https://img.shields.io/github/stars/hluaguo/CCometixLine?style=for-the-badge)
 
 ---
 
-### 📊 Stats
+### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hluaguo&show_icons=true&theme=default&hide_border=true&include_all_commits=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hluaguo&layout=compact&theme=default&hide_border=true" height="165"/>
+![hluaguo's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hluaguo&theme=default)
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hluaguo&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hluaguo&theme=default" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hluaguo&theme=default&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hluaguo&theme=minimal&hide_border=true" />
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hluaguo&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hluaguo&theme=default&utcOffset=8" />
 </p>
