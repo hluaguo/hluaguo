@@ -12,7 +12,6 @@ Software Developer from Hong Kong | City University of Hong Kong
 - [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) — STT pipeline performance: mel filter caching, hot-path profiling ([#801](https://github.com/Blaizzy/mlx-audio/pull/801), [#806](https://github.com/Blaizzy/mlx-audio/pull/806), merged)
 - [LMCache/LMCache](https://github.com/LMCache/LMCache) — device transfer optimization in FusedRope ([#3888](https://github.com/LMCache/LMCache/pull/3888), open)
 - [Haleclipse/CCometixLine](https://github.com/Haleclipse/CCometixLine) — UI improvement ([#57](https://github.com/Haleclipse/CCometixLine/pull/57), merged)
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) — Google OAuth integration ([#11705](https://github.com/open-webui/open-webui/pull/11705), closed)
 
 ### Repos
 
