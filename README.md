@@ -4,13 +4,11 @@ Software Developer from Hong Kong | City University of Hong Kong
 
 ### Contribution Stats
 
-![GitHub streak](https://streak-stats.demolab.com?user=hluaguo&hide_border=true)
-
 ![Contribution stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hluaguo&theme=default)
 
 ### Contributed To
 
-- [apple/container](https://github.com/apple/container) — parser performance: collection capacity hints ([#1791](https://github.com/apple/container/pull/1791), merged); hot-path caching & number formatting ([#1866](https://github.com/apple/container/pull/1866), open)
+- [apple/container](https://github.com/apple/container) — parser performance: collection capacity hints ([#1791](https://github.com/apple/container/pull/1791), merged)
 - [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) — STT pipeline performance: mel filter caching, hot-path profiling ([#801](https://github.com/Blaizzy/mlx-audio/pull/801), [#806](https://github.com/Blaizzy/mlx-audio/pull/806), merged)
 - [LMCache/LMCache](https://github.com/LMCache/LMCache) — device transfer optimization in FusedRope ([#3888](https://github.com/LMCache/LMCache/pull/3888), open)
 - [Haleclipse/CCometixLine](https://github.com/Haleclipse/CCometixLine) — UI improvement ([#57](https://github.com/Haleclipse/CCometixLine/pull/57), merged)
